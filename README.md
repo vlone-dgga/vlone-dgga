@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dris
-- 👀 I’m interested in learn web design and web developer
+- 👋 Hi, I’m @Derrrick
+- 👀 I’m interested in learn web design and web developer - UI/UX
 - 🌱 I’m currently learning HTML, CCS, JavaScript
 - 💞️ I’m looking to collaborate on Globant
 - 📫 How to reach me ...
