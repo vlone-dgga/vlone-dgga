@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Derrrick
+- 👋 Hi, I’m @Derrick
 - 👀 I’m interested in learn web design and web developer - UI/UX
-- 🌱 I’m currently learning HTML, CCS, JavaScript
-- 💞️ I’m looking to collaborate on Globant
+- 🌱 I’m currently learning and focused on Flutter/Dart
 - 📫 How to reach me ...
 
 <!---
